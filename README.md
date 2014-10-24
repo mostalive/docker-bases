@@ -6,6 +6,13 @@ them functional, such as locales.
 
 See separate directories for credits.
 
+# Installation
+```
+build.sh
+```
+
+this generates images. Currently mostalive/debian:wheezy and
+mostalive/ubuntu:trusty.
 
 # Licensing
 
